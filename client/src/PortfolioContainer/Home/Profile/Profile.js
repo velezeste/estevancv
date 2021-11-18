@@ -10,27 +10,30 @@ export default function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
-              <a href="https://web.facebook.com/?_rdc=1&_rdr">
+              <a href="https://www.linkedin.com/in/estevan-velez/">
+                <i className="fa fa-linkedin" />
+              </a>
+              <a href="https://www.facebook.com/estevanvelezsepulveda/">
                 <i className="fa fa-facebook-square" />
               </a>
-              <a href="#">
-                <i className="fa fa-google-plus-square" />
-              </a>
-              <a href="https://www.instagram.com/instructor_ehizeex/">
+              <a href="https://www.instagram.com/estevanvelezsepulveda/">
                 <i className="fa fa-instagram" />
               </a>
-              <a href="https://www.youtube.com/channel/UCSSr5ZDFbilpZ592_ycoAwA">
-                <i className="fa fa-youtube-square" />
+              <a href="https://t.me/velezeste">
+                <i className="fa fa-telegram" />
               </a>
-              <a href="https://twitter.com/Ehiedu_baba">
-                <i className="fa fa-twitter" />
+              <a href="https://wa.me/+573116257370">
+                <i className="fa fa-whatsapp" />
+              </a>
+              <a href="https://github.com/velezeste">
+                <i className="fa fa-github" />
               </a>
             </div>
           </div>
           <div className="profile-details-name">
             <span className="primary-text">
               {" "}
-              Hello, I'M <span className="highlighted-text">Ehiedu</span>
+              Hello, I'M <span className="highlighted-text">Estevan</span>
             </span>
           </div>
           <div className="profile-details-role">
